@@ -3,7 +3,7 @@ A well-organized repository for educational study materials, providing quick acc
 
 ## Study Files Repository
 
-Welcome to the Study Files Repository! This repository serves as an organized hub for educational materials, study resources, and reference materials that are essential for our academic journey. Whether you are a student or a professor, this repository will help you stay on top of your course materials and educational resources. Please find below a brief description of the folders and their contents within this repository:
+Welcome to the Study Files Repository! This repository serves as an organized hub for educational materials, study resources, and reference materials that are essential for our academic journey. This repository will help you stay on top of our course materials and educational resources. Please find below a brief description of the folders and their contents within this repository:
 
 #### Folders and Their Contents.
 
@@ -43,7 +43,7 @@ Feel free to browse and access the materials you need. If you want to contribute
 
 ## Collaboration and Contributions
 
-This repository is primarily for personal use but can also serve as a collaborative platform for both you and your friend. To make contributions or discuss any changes, please use the issue tracker, create pull requests, or communicate directly. Your feedback, suggestions, and improvements are welcome!
+This repository is primarily for personal use but can also serve as a collaborative platform. To make contributions or discuss any changes, please use the issue tracker, create pull requests, or communicate directly. Your feedback, suggestions, and improvements are welcome!
 
 Remember that the repository is for educational purposes, so always ensure compliance with academic integrity and copyright guidelines.
 
