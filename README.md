@@ -39,7 +39,7 @@ Welcome to the Study Files Repository! This repository serves as an organized hu
 
 ## How to Use This Repository
 
-Feel free to browse and access the materials you need. If you want to contribute or organize materials in a specific way, please discuss with the repository owners (Supreme-Zarck / ) to maintain consistency.
+Feel free to browse and access the materials you need. If you want to contribute or organize materials in a specific way, please discuss with the repository owners ( [Supreme-Zarck](https://github.com/Supreme-Zarck) / [AizenTa](https://github.com/AizenTa) / [MEDELOUARDI](https://github.com/MEDELOUARDI) ) to maintain consistency.
 
 ## Collaboration and Contributions
 
